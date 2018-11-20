@@ -1,7 +1,7 @@
 {
   "description": "App to save and view recipes on mobile devices",
-  "license": "MIT",
-  "readme": "NativeScript Application",
+  "license": "SEE LICENSE IN LICENSE",
+  "readme": "Moms Recipes",
   "repository": "",
   "nativescript": {
     "id": "de.sneezoo.MomsRecipes",
